@@ -1,15 +1,93 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="MokAdil189kapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/vue-tips/difference-between-use-fetch-and-event-fetch target="_blank" rel="noreferrer nofollow">Nuxt Tip: Difference Between useFetch and event.$fetch</a></li><li><a href=https://mokkapps.de/vue-tips/infer-props-from-component-map target="_blank" rel="noreferrer nofollow">Vue Tip: Infer Props From Components in a Component Map</a></li><li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/205 target="_blank" rel="noreferrer nofollow">Weekly Vue News #241 - Final Newsletter Issue</a></li><li><a href=https://weekly-vue.news/issues/v2/204 target="_blank" rel="noreferrer nofollow">Weekly Vue News #240 - TypeScript at Scale, Pinia Colada v1, Vite Recap & effectScope Deep Dive</a></li><li><a href=https://weekly-vue.news/issues/v2/203 target="_blank" rel="noreferrer nofollow">Weekly Vue News #239 - Accessibility tips, Nuxt UI updates, and power tools for dev productivity</a></li><li><a href=https://weekly-vue.news/issues/v2/202 target="_blank" rel="noreferrer nofollow">Weekly Vue News #238 - Nuxt UI v4, business wins with Nuxt, and VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li>
-  </ul>
+Hi, I'm Adil Elneel 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Adil%20Elneel&fontSize=50&fontColor=ffffff&animation=fadeIn" />👨‍💻 About Me
+
+- 🇸🇩 Sudanese Developer
+- 🎓 Programming Student
+- 💻 Learning and building projects with:
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+- 📚 German & English Language Instructor
+- 🎥 Creating educational posts and videos
+- 🚀 Passionate about coding, teaching, and self-development
+
+---
+
+🌐 Connect With Me
+
+<p>
+<a href="https://github.com/AdilElneel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a><a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a><a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>---
+
+🛠️ Technologies & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>---
+
+📈 GitHub Stats
+
+"Adil's GitHub stats" (https://github-readme-stats.vercel.app/api?username=AdilElneel&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=AdilElneel&layout=compact)
+
+---
+
+🎯 Current Goals
+
+- Improve JavaScript skills
+- Build real-world web applications
+- Create educational programming content
+- Grow a community of German and English learners
+
+---
+
+📚 Educational Content
+
+German Language
+
+- German Grammar
+- Daily Conversations
+- Vocabulary Lessons
+- Pronunciation Practice
+
+English Language
+
+- Grammar Tips
+- Speaking Practice
+- Vocabulary Building
+- Everyday English
+
+---
+
+🚀 Featured Projects
+
+CRUD System
+
+A complete CRUD application using HTML, CSS and JavaScript.
+
+Word Search Game
+
+Educational game for learning English vocabulary.
+
+German Learning Resources
+
+Lessons and exercises for beginner students.
+
+---
+
+Quote
+
+«"Learning never stops. Every day is a new opportunity to improve."»
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
